@@ -1,2 +1,3 @@
 # Geron
-Uchburchak yuzini topish formulasi
+Uchburchak yuzini topish formulasini topish dasturi
+
